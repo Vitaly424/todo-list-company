@@ -2,5 +2,5 @@
 
 ```
 npm install - устанавливаем зависимости
-npm run start:dev или npm run start:dev:vite - запуск проекта
+npm run start:dev - запуск проекта
 ```
